@@ -1,0 +1,55 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #0074b7;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 36px;
+        }
+
+        .logo {
+    width: 80px; /* Adjust the size as needed */
+    height: 80px; /* Adjust the size as needed */
+    margin-right: 100%; /* Push the logo to the right by taking up all available space */
+    margin-top: -60px;
+}
+        .search-bar {
+            text-align: center;
+            padding: 20px;
+        }
+
+        .search-bar input[type="text"] {
+            padding: 10px;
+            width: 50%;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        .idea {
+            background-color: #fff;
+            margin: 20px;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .idea h2 {
+            font-size: 24px;
+            color: #0074b7;
+        }
+
+        .idea p {
+            font-size: 16px;
+        }
+    
